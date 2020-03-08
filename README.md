@@ -1,1 +1,6 @@
 # NBA-MIP
+  The business problem addressed in this paper is determining the recipient of the NBA’s Most Improved Player award, which acknowledges one of the league's best breakout stars each season. This award is difficult to predict because candidates are often not a household name similar to the likes of Lebron James or Stephen Curry. This is also a difficult award to determine due to the fact that these players have not yet hit their peak statistically speaking. It is easy to point out the best players in the league. However, attempting to determine who has the most improvement every year compared to 400 other players is a difficult task. 
+  
+  Clustering was leveraged as part of this analysis to get an understanding of players and their statistics. Following this, three different classification models were developed, which were trained and tested on the 13 NBA seasons between 2005 and 2018. Each of these were evaluated based on success metrics. The top two models and feature set pairs were then utilized to make predictions of the likely winners of the award for the 2018-2019 season. This information is extremely valuable to NBA front offices, as they can leverage this type of information to build stronger and more successful rosters.
+
+Please see the PDF report for the final findings!
